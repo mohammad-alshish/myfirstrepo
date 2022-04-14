@@ -1,6 +1,6 @@
 # Who Is Me?
 *I'm Mohammad alshish, 28 years old, Lives in Amman-Jordan and gradutited as civil engineer since 2017 from Mutah-University.
-There's nothing much to say about myself but if i really have to say somthing,I really love to learn new stuff and improve myself to keep sharp.I blieve learning more & more will change yor life to the best,this why i learn PYTHON right now.
+There's nothing much to say about myself but if i really have to asaay somthing,I really love to learn new stuff and improve myself to keep sharp.I blieve learning more & more will change yor life to the best,this why i learn PYTHON right now.
 Now they always say to make people understand who really you are you need to tell them About your dreams ,well for me this is easy i really want to travel around the world and try new things.*
 
 ---------------------------
