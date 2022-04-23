@@ -18,8 +18,9 @@ Now they always say to make people understand who really you are you need to tel
 
 5. Always face your problems during your projects,try to solve them, don't be shy to ask for help, no need to be afraid from solving theses problems even this is means you need tp repeat your work again & learn from your mistakes.
 
-### This is what i learn till now but i think i will learn more & more if you are intrested to learn like me follow the link and read those tips and advices they are just amazing [here](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/)
-..............................
+### This is what i learn till now but i think i will learn more & more if you are intrested to learn like me follow the link and read those tips and advices they are just amazing### This is what i learn till now but i think i will learn more & more if you are intrested to learn like me follow the link and read those tips and advices they are just amazing. [here] (https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/)
+
+...........................
 
 
 
