@@ -6,7 +6,7 @@ Now they always say to make people understand who really you are you need to tel
 ---------------------------
 # Good developer mindset summray
  
- ### There's alot of ideas you need to understand and alot of things you need to keep in your mind to be a star in developing field
+ ###  There's alot of ideas you need to understand and alot of things you need to keep in your mind to be a star in developing field
 
 1. You need always to think of users(people) and make sure your goal is helping them and make desgin they can use, SIMPLE & EFFECTIVE....
 
