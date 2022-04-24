@@ -14,7 +14,7 @@ Now they always say to make people understand who really you are you need to tel
 
 3. You need to care about your work, never forget it and try yor best make it last for the longest time.
 
-4. Always remember not to overestimated or underestimated your work, Is (Good Enough) to make your program to do it purpose in best way.
+4. Always remember a not to overestimated or underestimated your work, Is (Good Enough) to make your program to do it purpose in best way.
 
 5. Always face your problems during your projects,try to solve them, don't be shy to ask for help, no need to be afraid from solving theses problems even this is means you need tp repeat your work again & learn from your mistakes.
 
