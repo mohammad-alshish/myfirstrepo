@@ -20,7 +20,7 @@ Now they always say to make people understand who really you are you need to tel
 
 ### This is what i learn till now but i think i will learn more & more if you are intrested to learn like me follow the link and read those tips and advices they are just amazing### This is what i learn till now but i think i will learn more & more if you are intrested to learn like me follow the link and read those tips and advices they are just amazing.
 
-[here] (https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/)
+[https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/] (here)
 
 ...........................
 
